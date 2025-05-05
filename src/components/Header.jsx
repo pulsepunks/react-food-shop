@@ -7,7 +7,7 @@ export const Header = () => {
 						href='!#'
 						className='brand-logo'
 					>
-						React Fortnite Shop
+						React Food Shop
 					</a>
 					<ul
 						id='nav-mobile'
